@@ -1,5 +1,5 @@
 - 👋 Hi there!
-- 🌱 I’m currently Flutter developer
+- 🌱 I’m Flutter developer
 - 👀 I’m interested in mobile development.
 - 📫 How to reach me: ilyindeveloper@gmail.com
 
