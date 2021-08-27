@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ilyin0
-- 👀 I’m interested in Flutter and Android development.
-- 🌱 I’m currently learning Flutter/Dart.
-- 💞️ I’m looking to collaborate on any interesting mobile project.
+- 👋 Hi there!
+- 🌱 I’m currently Flutter developer
+- 👀 I’m interested in mobile development.
 - 📫 How to reach me: ilyindeveloper@gmail.com
 
 <!---
